@@ -33,7 +33,7 @@ Instead of **manual matrix multiplication**, use **cuML’s NearestNeighbors (fa
 - Computes **speedup factor**
 
 **Format to save the tf-idf vectors**
-Fast retrieval & ANN search	Vector DB (Milvus, FAISS)
-Quick saving/loading	.npz compressed file
-Structured + metadata search	SQL (PostgreSQL, MongoDB)
-Small-scale projects	Pickle (.pkl)
+Fast retrieval & ANN search     	    Vector DB (Milvus, FAISS)
+Quick saving/loading	                .npz compressed file
+Structured + metadata search	        SQL (PostgreSQL, MongoDB)
+Small-scale projects	                Pickle (.pkl)
